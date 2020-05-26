@@ -1,0 +1,14 @@
+# RT1050_RTOS ignore commit file mode
+*.map
+*.lst
+flexspi_nor_debug
+flexspi_nor_release
+Objects/
+Listings/
+output
+sdram_debug
+JLinkLog.txt
+JLinkSettings.ini
+*.uvguix.*
+*.uvoptx
+*.scvd
